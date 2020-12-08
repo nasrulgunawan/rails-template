@@ -1,7 +1,7 @@
 # Add Gem
 
 gem 'bootstrap'
-gem 'nutrifood-ui', git: 'http://gitlab.nutrifood.co.id/igeeks-gem/nutrifood-ui.git'
+gem 'n-ui', git: 'http://hi.n-ui.git'
 gem 'font-awesome-sass', '~> 5.15.1'
 gem 'jquery-rails'
 gem 'pagy'
